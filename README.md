@@ -1,4 +1,4 @@
-# -Predicting-Used-Car-Prices-in-Nigeria-s-Automotive-Market
+# Predicting-Used-Car-Prices-in-Nigeria-s-Automotive-Market
 
 
 <img width="920" height="283" alt="Car Market" src="https://github.com/user-attachments/assets/7f3bd233-200c-4e2d-be16-c122c98e9762" />
